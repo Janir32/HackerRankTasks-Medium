@@ -1,2 +1,2 @@
 # hacker-rank-medium-ThePads
-Solution for hacker rank challenges medium (The Pads)
+Solution for hacker rank challenges medium 
